@@ -49,3 +49,7 @@ Para auditorias aprofundadas de redirecionamento:
 ## Consultoria em Migracoes Web e SEO Tecnico
 
 Para operacoes de migracao e governanca de rotas sob Normas Europeias de Interoperabilidade e IETF RFC 9110, consulte a equipa da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
