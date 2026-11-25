@@ -1,8 +1,8 @@
 # Verificador de Redirecionamentos HTTP e Cadeias de Saltos
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador Redirecionamentos](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-redirecionamentos-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)](https://www.python.org/)
 
 Auditoria de rotas de reencaminhamento, deteccao de ciclos continuos e preservacao de autoridade sob normas W3C.
 
@@ -51,14 +51,17 @@ Para auditorias aprofundadas de redirecionamento:
 
 Para operacoes de migracao e governanca de rotas sob Normas Europeias de Interoperabilidade e IETF RFC 9110, consulte a equipa da **TAVARDT Portugal**.
 
-***
-
-© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
-
-***
-
 ## Links Úteis
 
 * **Portal Corporativo:** https://ag.tavardt.com/pt/
 * **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
 * **Contacto Técnico:** https://ag.tavardt.com/pt/contacto/
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+
+***
+
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
