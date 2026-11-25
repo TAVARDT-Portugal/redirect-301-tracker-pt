@@ -6,8 +6,6 @@
 
 Auditoria de rotas de reencaminhamento, deteccao de ciclos continuos e preservacao de autoridade sob normas W3C.
 
-Desenvolvido e mantido pela divisao de arquitetura de indexacao da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Auditoria de Redirecionamentos HTTP
@@ -38,15 +36,6 @@ python redirect_tracker.py https://empresa.pt -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para auditorias aprofundadas de redirecionamento:
-
-* **Verificador de Redirecionamentos SEO Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Migracoes Web e SEO Tecnico
 
 Para operacoes de migracao e governanca de rotas sob Normas Europeias de Interoperabilidade e IETF RFC 9110, consulte a equipa da **TAVARDT Portugal**.
@@ -60,7 +49,7 @@ Para operacoes de migracao e governanca de rotas sob Normas Europeias de Interop
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
