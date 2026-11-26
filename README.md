@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/pt/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Verificador de Redirecionamentos HTTP 301 e Cadeias de Saltos
 
 [![Verificador Redirecionamentos](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-redirecionamentos-seo/)
